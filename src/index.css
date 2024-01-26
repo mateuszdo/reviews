@@ -274,6 +274,7 @@ main {
 }
 .review-title {
   margin-bottom: 40px;
+  color: red;
 }
 .img-container {
   position: relative;
